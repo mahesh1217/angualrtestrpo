@@ -1,0 +1,12 @@
+INDEX VERSION 1.131+C:\Users\sivamahesh\Desktop\angular\.metadata\.plugins\org.eclipse.jdt.core
+885639523.index
+2994689606.index
+3413253282.index
+713526769.index
+1072721298.index
+1977824344.index
+345678619.index
+2642588888.index
+2569772522.index
+590864567.index
+186547235.index
